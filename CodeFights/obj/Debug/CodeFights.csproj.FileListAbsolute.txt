@@ -1,0 +1,6 @@
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\bin\Debug\CodeFights.exe.config
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\bin\Debug\CodeFights.exe
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\bin\Debug\CodeFights.pdb
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\obj\Debug\CodeFights.csprojResolveAssemblyReference.cache
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\obj\Debug\CodeFights.exe
+C:\OneDrive for Business\Projects\CodeFights\CodeFights\obj\Debug\CodeFights.pdb

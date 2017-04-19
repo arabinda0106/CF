@@ -1,0 +1,8 @@
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\bin\Debug\CodeFightsUnitTestProject.dll
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\bin\Debug\CodeFightsUnitTestProject.pdb
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\bin\Debug\CodeFights.exe
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\bin\Debug\CodeFights.pdb
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\obj\Debug\CodeFightsUnitTestProject.csprojResolveAssemblyReference.cache
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\obj\Debug\CodeFightsUnitTestProject.dll
+C:\OneDrive for Business\Projects\CodeFights\CodeFightsUnitTestProject\obj\Debug\CodeFightsUnitTestProject.pdb
