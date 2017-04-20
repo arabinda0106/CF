@@ -38,3 +38,6 @@ C:\OD_ETS\OneDrive\CF\C#\CodeFights\bin\Debug\CodeFights.exe.lastcodeanalysissuc
 C:\Users\asahoo\Documents\GitPersonal\Repos\CF\CodeFights\bin\Debug\CodeFights.exe.config
 C:\Users\asahoo\Documents\GitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.exe
 C:\Users\asahoo\Documents\GitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.pdb
+C:\OD_ETS\OneDrive\gitPersonal\Repos\CF\CodeFights\bin\Debug\CodeFights.exe.config
+C:\OD_ETS\OneDrive\gitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.exe
+C:\OD_ETS\OneDrive\gitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.pdb
