@@ -41,3 +41,6 @@ C:\Users\arabinda\Dropbox\CF\C#\CodeFights\obj\Debug\CodeFights.pdb
 C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\CodeFights\bin\Debug\CodeFights.exe.config
 C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.exe
 C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\CodeFights\obj\Debug\CodeFights.pdb
+C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\C#\CodeFights\bin\Debug\CodeFights.exe.config
+C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\C#\CodeFights\obj\Debug\CodeFights.exe
+C:\Users\arabinda\Dropbox\gitPersonal\Repos\CF\C#\CodeFights\obj\Debug\CodeFights.pdb
