@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Arcade.cs" />
     <Compile Include="AsanaBot.cs" />
+    <Compile Include="CF_Interview_Practice.cs" />
     <Compile Include="Challenges.cs" />
     <Compile Include="CodeFightBot.cs" />
     <Compile Include="CompanyBots.cs" />
